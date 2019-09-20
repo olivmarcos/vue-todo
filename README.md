@@ -1,5 +1,9 @@
 # todo
 
+A Vue todolist created following the Traversy Media tutorial from youtube: https://www.youtube.com/watch?v=Wy9q22isx3U&t=2135s
+
+This is my first contact with vue. 
+
 ## Project setup
 ```
 npm install
